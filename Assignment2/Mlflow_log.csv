@@ -1,0 +1,21 @@
+Run ID,Name,Source Type,Source Name,User,Status,score
+0a5b36f0203e4fef9cb1b8f93241e432,Basic KSVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9533213644524237
+ed01384a8cb34a59abe0b2435b0f7ae0,Basic SVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9748653500897666
+b2a00876b91942e6964697534f0aa143,Basic KNN Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.7450628366247756
+fe073e6c75164a968131745dbda4c29b,Basic LR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9838420107719928
+8031fefd457e409eb0e8804929db05f4,Basic KSVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9533213644524237
+ed66cdcc3b2943e1acb108e0f4af5f14,Basic SVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9748653500897666
+6605125c223f4f199e9311b9181da90e,Basic KNN Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.7450628366247756
+5c3a6407714841b88520a36e5b501b13,Basic LR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9838420107719928
+0fb918c9e2514c4ba561306ab29a9f4b,Basic KSVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9533213644524237
+5a591bf058e442a2a500279dcf8a3bd2,Basic SVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9748653500897666
+e7e0423e581d4a8da9d3e9918729f668,Basic KNN Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.7450628366247756
+171792d8f98f4cd987c806d403bc0836,Basic LR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9838420107719928
+5f26f2967620444ba4e4db8c741896fb,Basic KSVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9533213644524237
+1da9d03e52814981912c219b40a6b943,Basic SVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9748653500897666
+0b7431ef36f94650baf50548e8655fb6,Basic KNN Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.7450628366247756
+080f1e5d96644d13b1bb780ec286e56d,Basic LR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9838420107719928
+3074d59727264a61b26cd255baf110a2,Basic KSVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9533213644524237
+4253ed433ce94584940aaaf8f8de1318,Basic SVR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9748653500897666
+e7e1de06792a4591a514bc252044b7a4,Basic KNN Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.7450628366247756
+9b285d376f0744dd8eab704cea8dcd4a,Basic LR Experiment,LOCAL,c:\Miniconda\lib\site-packages\ipykernel_launcher.py,amcclead,FINISHED,0.9838420107719928
