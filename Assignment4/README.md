@@ -14,3 +14,9 @@ I found I had some more difficulties with setting up the flask api. After some a
 Once the api was up and running I was able to consume it using the requests module, see [Assignment4-Consume-Flask.py](Assignment4-Consume-Flask.py). Examples of the use are below.
 
 ![Consume Example](photos/Flask-Consume.png "Example4")
+
+
+### Notes on setup:
+I had to switch to local setup of my mlflow server which required me to use homebrew to reinstall python and mlflow. That also meant I had to run change the port for mlflow to 5001 as swagger and mlflow use port 5000.
+
+I also created a directory for the saved model signimg_class_json.
